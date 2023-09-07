@@ -22,7 +22,7 @@
     "@architect/asap": "^5.1.1",
     "@architect/functions": "~5.4.0",
     "@architect/inventory": "^3.5.3",
-    "@architect/package": "^8.5.0",
+    "@architect/package": "^8.5.1",
     "@architect/plugin-node-prune": "^2.0.2",
     "arcdown": "^2.1.1",
     "slugify": "^1.6.6"
