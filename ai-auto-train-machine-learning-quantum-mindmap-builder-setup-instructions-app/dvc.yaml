@@ -1,0 +1,4 @@
+artifacts:
+  quantumblockchainai:
+    path: quantumblockchainai.atlassian.com
+    type: model

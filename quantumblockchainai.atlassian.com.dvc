@@ -1,0 +1,7 @@
+frozen: true
+deps:
+- hash: md5
+  path: https://quantumblockchainai.atlassian.com
+outs:
+- hash: md5
+  path: quantumblockchainai.atlassian.com
