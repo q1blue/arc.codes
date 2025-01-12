@@ -2,3 +2,6 @@ artifacts:
   quantumblockchainai:
     path: quantumblockchainai.atlassian.com
     type: model
+  crystalai:
+    path: quantumblockchainai.atlassian.com
+    type: model
