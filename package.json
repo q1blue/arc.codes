@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@architect/asap": "^5.1.1",
-    "@architect/functions": "~5.4.0",
+    "@architect/functions": "~8.1.9",
     "@architect/inventory": "^3.5.3",
     "@architect/package": "^8.5.0",
     "@architect/plugin-node-prune": "^2.0.2",
@@ -28,7 +28,7 @@
     "slugify": "^1.6.6"
   },
   "devDependencies": {
-    "@architect/architect": "^10.12.1",
+    "@architect/architect": "^12.0.0",
     "@architect/eslint-config": "^2.1.1",
     "@architect/spellcheck-dictionary": "github:architect/spellcheck-dictionary",
     "eslint": "^8.39.0",
